@@ -1,0 +1,33 @@
+{
+  "name": "test_web3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "11.11.0",
+    "@emotion/react": "11.11.0",
+    "@emotion/styled": "11.11.0",
+    "@rollup/plugin-terser": "0.4.4",
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.43",
+    "@types/react-dom": "18.2.17",
+    "@vitejs/plugin-react": "4.2.1",
+    "autoprefixer": "10.4.16",
+    "pixi.js": "8.1.0",
+    "postcss": "8.4.33",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.22.1",
+    "sass": "1.69.5",
+    "tailwindcss": "3.4.1",
+    "three": "0.163.0",
+    "typescript": "5.2.2",
+    "vite": "5.1.2",
+    "vite-plugin-svgr": "4.2.0"
+  }
+}
